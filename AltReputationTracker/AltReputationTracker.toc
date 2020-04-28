@@ -1,0 +1,11 @@
+## Interface: 80300
+## Title: Alt reputation tracker
+## Author: Loyalar
+## Version: 0.1
+## Notes: Displays reputation progress for alts
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: AltRepTrackerDB
+
+data.lua
+core.lua
